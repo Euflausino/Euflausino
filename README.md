@@ -1,6 +1,6 @@
 ### Olá, eu sou o Bruno Euflausino!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/Euflausino](https://www.linkedin.com/in/bruno-euflausino-597b912a7/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-euflausino-597b912a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunoeuflausino/)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Euflausino&show_icons=true&theme=radical)
