@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-euflausino-597b912a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunoeuflausino/)
-[![Dio](https://img.shields.io/badge/LinkedIn-ededed?style=for-the-badge&logo=linkedin&logoColor=black)](https://web.dio.me/users/brunoeuflausino?tab=achievements)
+[![Dio](https://img.shields.io/badge/Dio-ededed?style=for-the-badge&logo=dio&logoColor=black)](https://web.dio.me/users/brunoeuflausino?tab=achievements)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Euflausino&show_icons=true&theme=radical)
 
