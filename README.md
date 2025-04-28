@@ -13,7 +13,7 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/REACT-323330?style=for-the-badge&logo=react&logoColor=black" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/REACT-323330?style=for-the-badge&logo=react&logoColor=white" />
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
