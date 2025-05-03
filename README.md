@@ -1,4 +1,5 @@
 ### Olá, eu sou o Bruno Euflausino!
+## Estudo Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi. Aqui você pode encontrar um pouco mais do meu trabalho e evolução!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-euflausino-597b912a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunoeuflausino/)
@@ -17,6 +18,7 @@
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="Git" src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="MySql" src="https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
 #### Email para contato: brunoeuflausino@gmail.com
