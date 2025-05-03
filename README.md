@@ -1,7 +1,5 @@
-<div style="align-items: center">
-    # Olá, eu sou o Bruno Euflausino!
-    ## Estudo Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi. Aqui você pode encontrar um pouco mais do meu trabalho e evolução!
-</div>
+ # Olá, eu sou o Bruno Euflausino!
+## Estudo Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi. Aqui você pode encontrar um pouco mais do meu trabalho e evolução!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-euflausino-597b912a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunoeuflausino/)
