@@ -1,5 +1,7 @@
-### Olá, eu sou o Bruno Euflausino!
-## Estudo Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi. Aqui você pode encontrar um pouco mais do meu trabalho e evolução!
+<div style="align-items: center">
+    # Olá, eu sou o Bruno Euflausino!
+    ## Estudo Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi. Aqui você pode encontrar um pouco mais do meu trabalho e evolução!
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-euflausino-597b912a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunoeuflausino/)
@@ -9,7 +11,7 @@
 
 ## Tecnologias que uso no meu dia
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block, align-items:center"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" />
