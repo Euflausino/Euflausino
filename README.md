@@ -6,7 +6,7 @@
 [![Dio](https://img.shields.io/badge/Dio-ededed?style=for-the-badge&logo=dio&logoColor=black)](https://web.dio.me/users/brunoeuflausino?tab=achievements)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Euflausino&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euflausino&layout=donut-vertical)](https://github.com/Euflausino/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euflausino&layout=compact)
 
 
 ## Tecnologias que uso no meu dia
