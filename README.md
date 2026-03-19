@@ -12,9 +12,9 @@
 
 <div style="display: inline_block, align-items:center"><br/>
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-323330?style=for-the-badge&logo=java&logoColor=white" />
+    <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="Git" src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-323330?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-323330?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="MySql" src="https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=react&logoColor=white" />
 </div><br/>
