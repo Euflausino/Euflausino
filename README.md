@@ -8,7 +8,7 @@ public class AboutMe {
 
 class DeveloperBackEnd extends AboutMe {
   private String stack = "Java and SpringBoot";
-  private String learningNow = "new tecnologies to improve my skills";
+  private String learningNow = "New tecnologies to improve my skills";
 }
 
 public static void main(String[] args) {
@@ -21,8 +21,6 @@ public static void main(String[] args) {
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/bruno-euflausino-597b912a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunoeuflausino/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euflausino&layout=compact&theme=radical)
 
 
 ## Tecnologias que uso no meu dia
