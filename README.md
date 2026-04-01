@@ -1,6 +1,23 @@
- # Sobre mim
-### Olá, sou o Bruno Euflausino, tenho 20 anos e sou estudante de Analise e Desenvolvimento de Sistemas na Anhembi Morumbi.
-### Atualmente trabalho como Desenvolvedor Backend na instituição financeira Bradesco, especializado em Java e SpringBoot criando API's REST seguras e escaláveis.
+```java
+package bruno.euflausino;
+
+public class AboutMe {
+  private String name = "Bruno Euflausino";
+  private String description = "Engenheiro de software - Bradesco";
+}
+
+class DeveloperBackEnd extends AboutMe {
+  private String stack = "Java and SpringBoot";
+  private String learningNow = "new tecnologies to improve my skills";
+}
+
+public static void main(String[] args) {
+  private String callToTalk(){
+      return "Caso queira conversar, entre em contato comigo em alguma das redes sociais abaixo: ";
+  }
+}
+
+```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/bruno-euflausino-597b912a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obrunoeuflausino/)
